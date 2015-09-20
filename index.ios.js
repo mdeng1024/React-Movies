@@ -17,11 +17,11 @@
 'use strict';
 
 var React = require('react-native');
-var [
+var {
   AppRegistry,
   NavigatorIOS,
   StyleSheet
-] = React;
+} = React;
 
 var SearchScreen = require('./src/SearchScreen');
 
