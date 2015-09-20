@@ -38,7 +38,7 @@ npm install -g react-native-cli
 
 * To create the initial App project run:
 ```
-react-natvie init [project-name]
+react-native init [project-name]
 ```
 
 * To add a platform to existing project, e.g. adding *Android* to exsiting react Native project
